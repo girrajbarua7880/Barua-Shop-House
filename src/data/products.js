@@ -1,0 +1,216 @@
+export const products = [
+  // Drinks
+  {
+    id: 1,
+    name: "Pepsi",
+    category: "Drinks",
+    description: "Popular cold drink.",
+    image: "/images/pepsi.svg",
+  },
+  {
+    id: 2,
+    name: "Coca-Cola",
+    category: "Drinks",
+    description: "Popular chilled soft drink.",
+    image: "/images/coca-cola.svg",
+  },
+  {
+    id: 3,
+    name: "Sprite",
+    category: "Drinks",
+    description: "Refreshing lemon-lime soft drink.",
+    image: "/images/sprite.svg",
+  },
+  {
+    id: 4,
+    name: "Packaged Water",
+    category: "Drinks",
+    description: "Packaged drinking water.",
+    image: "/images/water.svg",
+  },
+  {
+    id: 5,
+    name: "Juice",
+    category: "Drinks",
+    description: "Refreshing packaged fruit drink.",
+    image: "/images/juice.svg",
+  },
+
+  // Books & Stationery
+  {
+    id: 6,
+    name: "Notebook",
+    category: "Books & Stationery",
+    description: "Useful for school and office.",
+    image: "/images/notebook.svg",
+  },
+  {
+    id: 7,
+    name: "Ball Pen",
+    category: "Books & Stationery",
+    description: "Daily writing essential.",
+    image: "/images/pen.svg",
+  },
+  {
+    id: 8,
+    name: "Pencil",
+    category: "Books & Stationery",
+    description: "Useful for school and everyday writing.",
+    image: "/images/pencil.svg",
+  },
+  {
+    id: 9,
+    name: "Eraser",
+    category: "Books & Stationery",
+    description: "Common school stationery item.",
+    image: "/images/eraser.svg",
+  },
+  {
+    id: 10,
+    name: "School Books",
+    category: "Books & Stationery",
+    description: "School study material.",
+    image: "/images/books.svg",
+  },
+
+  // Recharge & SIM
+  {
+    id: 11,
+    name: "Mobile Recharge",
+    category: "Recharge & SIM",
+    description: "Mobile recharge assistance.",
+    image: "/images/recharge.svg",
+  },
+  {
+    id: 12,
+    name: "SIM Services",
+    category: "Recharge & SIM",
+    description: "SIM-related assistance.",
+    image: "/images/sim.svg",
+  },
+  {
+    id: 13,
+    name: "Prepaid Recharge",
+    category: "Recharge & SIM",
+    description: "Prepaid mobile recharge service.",
+    image: "/images/prepaid.svg",
+  },
+  {
+    id: 14,
+    name: "Data Recharge",
+    category: "Recharge & SIM",
+    description: "Mobile data recharge assistance.",
+    image: "/images/data-recharge.svg",
+  },
+
+  // Snacks
+  {
+    id: 15,
+    name: "Biscuits",
+    category: "Snacks",
+    description: "Everyday biscuit options.",
+    image: "/images/biscuits.svg",
+  },
+  {
+    id: 16,
+    name: "Namkeen",
+    category: "Snacks",
+    description: "Ready-to-eat savory snacks.",
+    image: "/images/namkeen.svg",
+  },
+  {
+    id: 17,
+    name: "Chips",
+    category: "Snacks",
+    description: "Popular ready-to-eat snack.",
+    image: "/images/chips.svg",
+  },
+  {
+    id: 18,
+    name: "Kurkure",
+    category: "Snacks",
+    description: "Popular crunchy snack.",
+    image: "/images/kurkure.svg",
+  },
+  {
+    id: 19,
+    name: "Cookies",
+    category: "Snacks",
+    description: "Tasty packaged cookies.",
+    image: "/images/cookies.svg",
+  },
+
+  // Personal Care
+  {
+    id: 20,
+    name: "Shampoo",
+    category: "Personal Care",
+    description: "Everyday hair-care essential.",
+    image: "/images/shampoo.svg",
+  },
+  {
+    id: 21,
+    name: "Toothpaste",
+    category: "Personal Care",
+    description: "Daily oral-care essential.",
+    image: "/images/toothpaste.svg",
+  },
+  {
+    id: 22,
+    name: "Soap",
+    category: "Personal Care",
+    description: "Everyday bathing and hygiene essential.",
+    image: "/images/soap.svg",
+  },
+  {
+    id: 23,
+    name: "Toothbrush",
+    category: "Personal Care",
+    description: "Daily oral-care product.",
+    image: "/images/toothbrush.svg",
+  },
+  {
+    id: 24,
+    name: "Hair Oil",
+    category: "Personal Care",
+    description: "Everyday hair-care product.",
+    image: "/images/hair-oil.svg",
+  },
+
+  // Chocolates
+  {
+    id: 25,
+    name: "Dairy Milk",
+    category: "Chocolates",
+    description: "Popular chocolate treat.",
+    image: "/images/dairy-milk.svg",
+  },
+  {
+    id: 26,
+    name: "KitKat",
+    category: "Chocolates",
+    description: "Popular chocolate wafer.",
+    image: "/images/kitkat.svg",
+  },
+  {
+    id: 27,
+    name: "5 Star",
+    category: "Chocolates",
+    description: "Popular chocolate bar.",
+    image: "/images/5-star.svg",
+  },
+  {
+    id: 28,
+    name: "Perk",
+    category: "Chocolates",
+    description: "Chocolate wafer snack.",
+    image: "/images/perk.svg",
+  },
+  {
+    id: 29,
+    name: "Toffees",
+    category: "Chocolates",
+    description: "Assorted toffees and candies.",
+    image: "/images/toffees.svg",
+  },
+];
